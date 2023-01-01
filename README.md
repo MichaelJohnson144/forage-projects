@@ -24,8 +24,8 @@ During this virtual experience, I learned how to:
 
 ---
 
-# UML Diagram
+# A UML Exemplary Diagram
 
-    One of my UML diagrams of the software's architecture  
+    One of my UML diagrams of the software's architecture.  
 
 ![Button Demo](UML_diagram_example.jpeg)
