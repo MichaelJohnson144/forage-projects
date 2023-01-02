@@ -4,7 +4,7 @@
         <picture> 
             <source media="(prefers-color-scheme: dark)" srcset="forage_logo.png">
             <source media="(prefers-color-scheme: light)" srcset="forage_logo.png">
-            <img alt="" src="forage_logo.png" width="518" height="133" style="max-width: max-content"/>
+            <img alt="" src="forage_logo.png" width="471" height="121" style="max-width: max-content"/>
         </picture>
     </a>
 </div>
